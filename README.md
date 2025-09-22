@@ -1,5 +1,5 @@
 
-# Programa en Workshops (5×8 h = 40 h) — .NET 8 / ASP.NET Core Web API (desde cero, sin hackatón)
+# Programa en Workshops (5×8 h = 40 h) — .NET 8 / ASP.NET Core Web API (desde cero)
 **Versión:** 2025-09-22  
 **Formato:** 5 workshops de **8 horas** cada uno (con descansos planificados)  
 **Stack:** .NET 8, ASP.NET Core (Controllers), Dapper, JWT, FluentValidation, Serilog, SQL Server
